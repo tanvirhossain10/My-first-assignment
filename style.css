@@ -1,9 +1,8 @@
 
 .flex-content{
     display: flex;
-    margin-bottom: 100px;
     padding: 90px;
-   
+
    
 }
 .link-button{
@@ -31,10 +30,8 @@ font-family: 'Poppins', sans-serif;
 }
 .border-left{
     border-left: 5px solid orange;
-    height: 98px;
-   border-radius: 7px;
-    
-    
+    height: 110px;
+   border-radius: 7px;  
 }
 .first-pic{
     padding-left: 150px;
@@ -43,12 +40,10 @@ h1{
     font-size: 30px;
 }
 .cyan{
-    color: cyan;
-    
-  
+    color: cyan;  
 }
 .aria{
-    padding-top: 100px;
+    padding-top: 150px;
 }
 .first-s-color{
     color: darkslateblue;
@@ -60,10 +55,7 @@ h1{
     text-align: center;
 }
 .flex-box{
- 
-    /* box-shadow: 10px; */
-    /* box-shadow: 10px 10px 40px grey; */
-    width: 80%;
+    width: 60%;
     margin-right: 5%;
     margin-left: 5%;
     padding-left: 20px;
@@ -98,47 +90,43 @@ h1{
 }
 .coding-apha{
     width: 350px;
-    /* padding-right: 1000px; */
 }
 .text1{
     padding-left: 100px;
+    
 }
 .flex3{
     display: flex;
+    padding: 90px;
   
 }
 .project-pic{
     width:400px;
-    /* margin: 150px; */
-    margin-left: 400px;
-}
-.projectpic{
-    padding-top: 40px;
-    width: 400px;
-}
+    margin-left: 100px;
+    
+}    
+
 .backimg2{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px;
     padding-bottom: 20px;
     padding-top: 0;
- 
-
 }
 .purple{
     color: purple;
 }
 .last-flex{
     display: flex;
-    width: 50%;
+    padding: 80px;  
 }
 .last-pic{
     width: 400px;
    padding-bottom: 100px;
-   margin-left: 500px;
+   margin-left: 300px;
 }
 .last-p{
-    width: 400px;
+    width: 500px;
 }
 .pink{
     color: rgb(231, 29, 63);
@@ -164,5 +152,4 @@ font-family: 'Poppins', sans-serif;
 }
 #c-white{
     color: white;
-
 }
