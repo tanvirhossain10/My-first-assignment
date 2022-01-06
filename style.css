@@ -1,0 +1,62 @@
+
+.flex-content{
+    display: flex;
+    margin-bottom: 100px;
+    padding: 90px;
+   
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,rgb(233, 64, 92));
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 400;
+
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+    
+}
+body{
+    font-family: 'Cardo', serif;
+font-family: 'Poppins', sans-serif;
+}
+.border-left{
+    border-left: 5px solid orange;
+    height: 98px;
+   border-radius: 7px;
+    
+    
+}
+.first-pic{
+    padding-left: 150px;
+}
+h1{
+    font-size: 30px;
+}
+.cyan{
+    color: cyan;
+    
+  
+}
+.aria{
+    padding-top: 100px;
+}
+.first-s-color{
+    color: darkslateblue;
+}
+.second-s-color{
+    color: red;
+}
+.align-s-h{
+    text-align: center;
+}
+.first-flex-box img{
+   
+    
+    
+}
