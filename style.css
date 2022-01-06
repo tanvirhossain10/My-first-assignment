@@ -22,7 +22,10 @@
     width: 80%;
     
 }
-body{
+
+body{font-family: 'Cardo', serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
     font-family: 'Cardo', serif;
 font-family: 'Poppins', sans-serif;
 }
@@ -136,4 +139,30 @@ h1{
 }
 .last-p{
     width: 400px;
+}
+.pink{
+    color: rgb(231, 29, 63);
+}
+.font-style{
+    font-family: 'Cardo', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.aling-cen{
+    text-align: center;
+}
+#orange{
+    color: rgb(245, 183, 67);
+}
+
+#white-c {
+    color: white;
+}
+#padding-c{
+    background-color: black;
+   padding: 20px;
+}
+#c-white{
+    color: white;
+
 }
